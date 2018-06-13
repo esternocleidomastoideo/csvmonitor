@@ -36,7 +36,7 @@ public static Properties getProp() throws IOException{
 			System.out.println("   Monitora (listener) um diretorio e envia um email a cada novo arquivo criado de acordo  com");
 			System.out.println("   a extensão definida no arquivo CSVMonitor.properties localizado em /home/oracle");
 			System.out.println("   Suporta Java 7.x ou superior");
-			System.out.println("   2018-05-04 | Autor: Marcelo AraujoS | SysMap Solutions");
+			System.out.println("   2018-05-04 | Autor: Marcelo AraujoS | S****p Solutions");
 			System.out.println("                                                                                              ");    
 			System.out.println("   Forma de execução: nohup java -jar CSVMonitor.jar &                                        ");
 			System.out.println("                                                                                              ");
