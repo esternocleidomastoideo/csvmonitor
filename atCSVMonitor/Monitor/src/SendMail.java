@@ -52,10 +52,10 @@ public class SendMail {
 	  email.setMsg(prop.getProperty("message"));
 	
 	//email.setHostName("smtp.gmail.com");
-	//email.setAuthentication("marcelo.araujo.sysmap@gmail.com","Vitoria1405*");
+	//email.setAuthentication("marcelo.araujo.s***p@gmail.com","V******5*");
 	//email.setSmtpPort(587);
 	//email.addTo("marceloaraujo14@hotmail.com", "Teste");  
-	//email.setFrom("marcelo.araujo.sysmap@gmail.com", "Novo Arquivo Disponivel"); 
+	//email.setFrom("marcelo.araujo.s****p@gmail.com", "Novo Arquivo Disponivel"); 
 	//email.setMsg("Acaba de ser gerado um novo arquivo do diretorio /home/oracle/lab");
       
 
