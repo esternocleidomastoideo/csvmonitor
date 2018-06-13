@@ -8,7 +8,7 @@ import java.util.Properties;
 
 /*
  * autor: Marcelo AraujoS
- * Sysmap Solutions
+ * S*****p Solutions
  */
 
 public class SendMail {
